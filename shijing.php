@@ -25,7 +25,7 @@ class shijing
     {
         $dirPath = dirname(__FILE__);
         $sourceFilePath = $dirPath . '/chinese-poetry/shijing/';
-        $sqlFileName = "/chinese-shijing-%s.sql";
+        $sqlFileName = "/sql/chinese-shijing-%s.sql";
         $sqlPathString = $dirPath . $sqlFileName;
 
         //判断古诗词仓库是否存在

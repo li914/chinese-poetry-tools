@@ -26,7 +26,7 @@ class ci
     {
         $dirPath = dirname(__FILE__);
         $sourceFilePath = $dirPath . '/chinese-poetry/ci/';
-        $sqlFileName = "/chinese-ci-song-%s.sql";
+        $sqlFileName = "/sql/chinese-ci-song-%s.sql";
         $sqlPathString = $dirPath . $sqlFileName;
 
         //判断古诗词仓库是否存在

@@ -3,3 +3,4 @@ chinese-poetry/
 .idea
 composer.lock
 vendor
+sql

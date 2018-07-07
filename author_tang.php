@@ -27,7 +27,7 @@ class author_tang
     {
         $dirPath = dirname(__FILE__);
         $sourceFilePath = $dirPath . '/chinese-poetry/json/';
-        $sqlFileName = "/authors.tang-%s.sql";
+        $sqlFileName = "/sql/authors.tang-%s.sql";
         $sqlPathString = $dirPath . $sqlFileName;
 
         //判断古诗词仓库是否存在
