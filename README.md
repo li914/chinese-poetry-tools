@@ -10,6 +10,7 @@
 
 - php 7.0 +
 - git
+- deepin系统
 
 ##主要数据来源以及使用：<br />
 古诗词仓库：https://github.com/chinese-poetry/chinese-poetry<br />
@@ -21,7 +22,7 @@
 1、下载本工具
 
 ```shell
-
+git clone https://github.com/li914/chinese-poetry-tools.git
 ```
 
 
@@ -29,7 +30,7 @@
 2、在本工具目录下，下载 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 仓库
 
 ~~~shell
-cd chinese-poetry-to-mysql-tool
+cd chinese-poetry-tools
 git clone https://github.com/chinese-poetry/chinese-poetry.git
 ~~~
 
