@@ -20,7 +20,7 @@ class tang
     protected $_ifFilter = true;
 
     //分段
-    protected $_section = 2;
+    protected $_section = 1;
 
     public function run()
     {

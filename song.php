@@ -21,7 +21,7 @@ class song
     protected $_ifFilter = true;
 
     //分段
-    protected $_section = 12;
+    protected $_section = 1;
 
     public function run()
     {
